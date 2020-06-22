@@ -1,0 +1,13 @@
+{
+  "name": "deobfuscate-minecraft-sounds",
+  "version": "1.0.0",
+  "description": "Deobfuscates minecraft assets to use in resource packs",
+  "main": "start.js",
+  "repository": "https://github.com/ryanArora/deobfuscate-minecraft-sounds",
+  "author": "Ryan Arora <arora.ryan@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
