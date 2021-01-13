@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const shell = require('shelljs');
 
-const mcpath = '~/.minecraft';
+const mcpath = '~/AppData/Roaming/.minecraft';
 const objectspath = path.join(mcpath, 'assets/objects');
 const indexes = require('./indexes.json').objects;
 
